@@ -1,0 +1,26 @@
+dependencies:
+  esp-idf-lib/dht:
+    component_hash: 257e0d75dc0cc7d274f64860ea389c815cfc056997e74454ac8a815d16008c10
+    dependencies: []
+    source:
+      registry_url: https://components.espressif.com/
+      type: service
+    version: 1.3.0
+  idf:
+    source:
+      type: idf
+    version: 6.3.0
+  nopnop2002/ssd1306:
+    component_hash: ccf568f8a780207aa7fdafda106f6e934de43a6f1c9ae783dd2825be2c525f28
+    dependencies: []
+    source:
+      git: https://github.com/nopnop2002/esp-idf-ssd1306.git
+      path: components/ssd1306
+      type: git
+    version: fbf73ef39d37787c9c33564c49d025b7c8c7fc83
+direct_dependencies:
+- esp-idf-lib/dht
+- nopnop2002/ssd1306
+manifest_hash: 9707b430bee4f1390ed0ff6f346c7a6baaebf9372dca4edf617c7e7e3d079fab
+target: esp32
+version: 3.0.0

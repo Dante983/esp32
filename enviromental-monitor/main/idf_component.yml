@@ -1,0 +1,5 @@
+dependencies:
+  nopnop2002/ssd1306:
+    git: https://github.com/nopnop2002/esp-idf-ssd1306.git
+    path: components/ssd1306
+  esp-idf-lib/dht: ^1.3.0
