@@ -5,7 +5,6 @@ A collection of hands-on ESP32 projects built with **ESP-IDF and C**. Each proje
 
 ## Progress
 
-- [x] Project 1 — Blink an LED
 - [x] Project 2 — Button-controlled LED
 - [x] Project 3 — Traffic light
 - [x] Project 4 — Potentiometer-controlled LED dimmer
@@ -22,11 +21,10 @@ A collection of hands-on ESP32 projects built with **ESP-IDF and C**. Each proje
 
 | # | Project | What it does | Status |
 |---|---|---|---|
-| 1 | [Blink](./project-01-blink/) | Blinks an LED connected to a GPIO pin. | Done |
-| 2 | [Button Control](./esp32-input/) | Uses a push button to control an LED. | Done |
-| 3 | [Traffic Light](./traffic_light/) | Cycles green, yellow, and red LEDs in sequence. | Done |
-| 4 | [Potentiometer LED Dimmer](./analog-input/) | Reads a potentiometer with the ADC and controls LED brightness with PWM. | Done |
-| 5 | [Environmental Monitor](./enviromental-monitor/) | Reads temperature and humidity and displays them on an I2C OLED. | Done |
+| 2 | [Button Control](https://github.com/Dante983/esp32/tree/master/esp32-input) | Uses a push button to control an LED. | Done |
+| 3 | [Traffic Light](https://github.com/Dante983/esp32/tree/master/traffic_light) | Cycles green, yellow, and red LEDs in sequence. | Done |
+| 4 | [Potentiometer LED Dimmer](https://github.com/Dante983/esp32/tree/master/analog-input) | Reads a potentiometer with the ADC and controls LED brightness with PWM. | Done |
+| 5 | [Environmental Monitor](https://github.com/Dante983/esp32/tree/master/enviromental-monitor) | Reads temperature and humidity and displays them on an I2C OLED. | Done |
 | 6 | Light-Level Monitor | Reads a light sensor with the ADC and displays the value on the OLED. | Planned |
 | 7 | Ultrasonic Distance Meter | Measures distance with an ultrasonic sensor and displays it on the OLED. | Planned |
 | 8 | Servo Position Control | Sweeps a servo or sets its angle using PWM. | Planned |
