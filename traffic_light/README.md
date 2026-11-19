@@ -196,6 +196,8 @@ Watch the LEDs cycle:
 3. Red turns on for 5 seconds.
 4. The cycle repeats.
 
+<img width="400" height="225" alt="PXL_20261119_115928054" src="https://github.com/user-attachments/assets/04a832ce-eb5c-44e4-aea7-aab6aa7135db" />
+
 Exit the monitor with **Ctrl+]**.
 
 ## Timing changes
