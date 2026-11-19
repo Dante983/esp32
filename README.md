@@ -1,4 +1,3 @@
-```markdown
 # ESP32 Learning Projects
 
 A collection of hands-on ESP32 projects built with **ESP-IDF and C**. Each project has its own directory with source code, wiring instructions, and a project-specific README.
@@ -119,4 +118,3 @@ Keep project source code, README files, wiring diagrams, and component manifests
 4. Test the build, flash, and hardware behavior.
 5. Add the project to the progress checklist and table above.
 6. Mark it done with `[x]` when complete.
-```
