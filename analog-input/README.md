@@ -1,4 +1,3 @@
-<img width="400" height="225" alt="analog-input" src="https://github.com/user-attachments/assets/2cede992-1bac-496e-bf23-a90f754ea09d" />
 # Project 4: Potentiometer-Controlled LED Dimmer
 
 Turn a potentiometer to control an LED’s brightness. The ESP32 reads the potentiometer’s wiper voltage using its ADC, then uses LEDC PWM to dim or brighten the LED.
