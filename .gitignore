@@ -1,0 +1,40 @@
+# ESP-IDF build output
+**/build/
+
+# Generated project configuration
+**/sdkconfig
+**/sdkconfig.old
+
+# ESP-IDF component manager downloads
+**/managed_components/
+
+# CMake generated files
+**/CMakeCache.txt
+**/CMakeFiles/
+**/cmake_install.cmake
+**/build.ninja
+**/Makefile
+
+# Compiled files and firmware images
+*.o
+*.a
+*.elf
+*.bin
+*.map
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# Editor and file-manager settings
+.idea/
+.vscode/
+.DS_Store
+.directory
