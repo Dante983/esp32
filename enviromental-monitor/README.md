@@ -211,6 +211,8 @@ The board is connected at `/dev/ttyUSB0`; use 115200 baud:
 idf.py -p /dev/ttyUSB0 -b 115200 flash
 idf.py -p /dev/ttyUSB0 monitor
 ```
+<img width="3000" height="4000" alt="PXL_20261119_221054668" src="https://github.com/user-attachments/assets/a0d252c3-e3b8-4260-8840-d05ec23dfff6" />
+<img width="4000" height="3000" alt="PXL_20261119_221040218" src="https://github.com/user-attachments/assets/e4210f39-e42b-4dc4-a2da-5aeefeb7eeaa" />
 
 Exit the serial monitor with `Ctrl+]`. If access to the serial port is denied, check that your user belongs to the `uucp` group and start a new login session after changing group membership.
 
